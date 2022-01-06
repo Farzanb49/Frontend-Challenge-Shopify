@@ -25,5 +25,5 @@ Open http://localhost:3000 to view it in the browser.
 
 ## Live Deployment
 
-Live Deployment coming soon. 
+Live Deployment can be seen here https://frosty-heyrovsky-e784d5.netlify.app
 
