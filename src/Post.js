@@ -1,6 +1,5 @@
 import './Post.css';
 import LikeButton from './Like';
-import { formatDistance } from 'date-fns';
 
 const Post = (props) => {
 
