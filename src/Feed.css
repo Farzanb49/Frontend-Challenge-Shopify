@@ -1,0 +1,27 @@
+.post-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: center;
+  width: 100vw;
+  background: #fff;
+}
+
+/* Darkmode styles */
+
+@media (prefers-color-scheme: dark) {
+  .post-grid {
+    background: #0a0a0a;
+  }
+}
+
+/* Desktop styles */
+
+@media screen and (min-width: 1024px) {
+  .post-grid {
+    grid-template-columns: auto;
+    width: 40vw;
+    margin: 1.5rem auto;
+    background: transparent;
+  }
+}
+
