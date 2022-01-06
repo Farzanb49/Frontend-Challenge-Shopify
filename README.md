@@ -18,8 +18,7 @@ Technologies: React, HTML/CSS, Axios, Node.js(npm/yarn)
 4. Replace everything after api_key= in the URL above with the API key that you generated in step 1. 
 5. Make sure you have npm or yarn installed.
 6. Install Axios by running: yarn add axios
-7. Install the date-fns library by running: yarn add date-fns
-8. Run: npm start
+7. Run: npm start
 
 Open http://localhost:3000 to view it in the browser.
 
