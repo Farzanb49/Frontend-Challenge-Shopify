@@ -1,4 +1,4 @@
-# Farzan-Frontend-Intern-Challenge-Shopify
+# Frontend-Challenge-Shopify
 
 # Spacestagram 
 
